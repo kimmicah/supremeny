@@ -1,0 +1,26 @@
+header, footer, nav{
+  display: block
+}
+
+body {
+  font-family: sans-serif;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%
+}
+
+body {
+  margin: 0
+}
+
+h1 {
+  font-size: 2em
+}
+
+#wrap {
+  height: 42.72727em;
+  margin: 0 auto;
+  max-width: 100%;
+  overflow: hidden;
+  position: relative;
+  width: 60.54545em
+}
